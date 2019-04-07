@@ -9,6 +9,7 @@ FORWARD_WARNING = ('\n[!] Warning:\n'
 '[!] Just before initiating the DNS Spoofing procedure, the tool disables the operating system\'s IPv4 forwarding.\n'
 '[!] This because the tool itself already forwards IP traffic from victims.\n'
 '[!] Having the operating system\'s IPv4 forwarding enabled would result in traffic being forwarded twice.\n'
+'[!] Also, this would cause the operating system to forward DNS requests we want to spoof.\n'
 '[!] Be warned when your device requires IPv4 forwarding for other reasons.\n')
 
 #Explanatory about dns tuple selection procedure 
