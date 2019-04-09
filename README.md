@@ -7,10 +7,13 @@ This tool was made by team Schoolbook_RSA for the course 2IC80 Lab on Offensive 
 *Disclaimer: This tool is designed to run on Linux 18.3 Mint Sylvia. There is no guarantee it will run on any other operating system (or Linux distribution).*
 
 The tool requires the following installations:
-* [Python 3.x]();
-* [Scapy 3]() ;
-* [Netifaces]();
-* [nmap (for Python)]().
+* [Python 3.4+](https://www.python.org/downloads/);
+* [Scapy 2.4.2](https://scapy.readthedocs.io/en/latest/installation.html#current-development-version);
+* [netifaces](https://github.com/al45tair/netifaces);
+* [python-nmap](https://bitbucket.org/xael/python-nmap).
+
+## Running The Application
+
 
 ## Authors
 Team Schoolbook_RSA:
